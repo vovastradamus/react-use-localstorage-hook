@@ -1,0 +1,24 @@
+{
+  "name": "react-use-localstorage-hook",
+  "version": "1.0.0",
+  "description": "React Locastorage hook across components & tabs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vovastradamus/react-use-localstorage-hook.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "localStorage"
+  ],
+  "author": "vovastradamus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vovastradamus/react-use-localstorage-hook/issues"
+  },
+  "homepage": "https://github.com/vovastradamus/react-use-localstorage-hook#readme"
+}
