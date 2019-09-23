@@ -16,7 +16,10 @@
     "hooks",
     "localStorage"
   ],
-  "author": "vovastradamus",
+  "author": {
+    "email": "vovastradamus@gmail.com",
+    "name": "Vovstradamus"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/vovastradamus/react-use-localstorage-hook/issues"
