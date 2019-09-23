@@ -2,9 +2,10 @@
   "name": "react-use-localstorage-hook",
   "version": "1.0.0",
   "description": "React Locastorage hook across components & tabs",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\"",
+    "build": "parcel build src/index.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,14 @@
   "bugs": {
     "url": "https://github.com/vovastradamus/react-use-localstorage-hook/issues"
   },
-  "homepage": "https://github.com/vovastradamus/react-use-localstorage-hook#readme"
+  "homepage": "https://github.com/vovastradamus/react-use-localstorage-hook#readme",
+  "peerDependencies": {
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0"
+  },
+  "devDependencies": {
+    "parcel": "^1.12.3",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
 }

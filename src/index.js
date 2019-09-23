@@ -1,1 +1,1 @@
-console.log('howdy');
+export { default } from "./hooks/localStorage";
