@@ -1,6 +1,6 @@
 {
   "name": "react-use-localstorage-hook",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "React Locastorage hook across components & tabs",
   "main": "dist/index.js",
   "scripts": {
