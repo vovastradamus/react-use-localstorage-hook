@@ -31,7 +31,7 @@
     "react-dom": "^16.8.0"
   },
   "devDependencies": {
-    "parcel": "^1.12.3",
+    "parcel": "^2.8.2",
     "rollup": "^1.21.4"
   }
 }
